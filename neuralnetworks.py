@@ -65,5 +65,5 @@ if __name__ == "__main__":
 
 
 
-#all nuralnetworks are sum of loops and condition <<pro tip>>
+#all neuralnetworks are sum of loops and condition <<pro tip>>
 
